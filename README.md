@@ -1,1 +1,1 @@
-HackerRank Interview practice questions of Python.
+HackerRank Interview Practice questions of Python.
